@@ -15,7 +15,7 @@ date:   2017-08-14 02:05:52 -0400
 ## Fast forward to now, three years later and after deciding that working in a laboratory wasn't for me, I find my self here learning something new. I'm making a career change into something that has the potential to always keep me on my toes, just the way I want it to be and although the feeling of starting over can make me feel a bit overwhelmed, it is important to note that one step at a time will get me there. I feel excited to learn, create and develop. 
 
 
-## It took me a long time to realize that web development can open up so many doors. Not only professionally but also personally, I love the challenge of learning new things, stepping out of my comfort zone and that feeling of progress and constant personal growth. I mean the learning never ends, I can't begin to tell you how many times a day I have to google concepts I don't understand or know about. It can sound kind of crazy to some but I think it is exactly what I want my career life to be about --Constant growth and opportunity. 
+## It took me a long time to realize that web development can open up so many doors. Not only professionally but also personally, I love the challenge of learning new things, stepping out of my comfort zone and that feeling of progress and constant personal growth. I mean the learning never ends, I can't begin to tell you how many times a day I have to google concepts I don't understand or know about. It can sound kind of crazy to some but I think it is exactly what I want my career life to be about -- constant growth and opportunity. 
 
 
 
