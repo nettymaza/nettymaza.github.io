@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Changing Careers and Loving It"
+title:  "Changing Careers & Loving It"
 date:   2017-08-14 02:05:52 -0400
 ---
 
