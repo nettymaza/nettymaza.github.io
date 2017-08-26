@@ -7,6 +7,8 @@ date:   2017-08-26 00:18:23 -0400
 
 ![](http://i.imgur.com/0aeU8mB.jpg)
 
+## Go for a walk, clear your mind...
+
 ### It’s very scary how important learning to code has become to me. I understand there is a good balance for everything; taking a lunch break, stopping when I get too frustrated, walking away to go live my life are all okay actions, right? The mind of a competitive would disagree, but I have no one to compete with, it’s just me against meeting my own goals and I’m having the hardest time stepping away. This journey means everything to me. 
 
 ### I’d like to say I’m blazing through OO Ruby but that is not the case. There are a couple of concepts I’m not quite comprehending: class constructors, class operators, heck! all advanced class methods, if we’re being honest here. 
