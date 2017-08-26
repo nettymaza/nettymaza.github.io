@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Thoughts on First Project, OO Ruby & Logic"
-date:   2017-08-26 04:18:22 +0000
+date:   2017-08-26 00:18:23 -0400
 ---
 
 
-![](http://imgur.com/FFHg9i4)
+![](http://i.imgur.com/FFHg9i4.jpg)
 
 ### It’s very scary how important learning to code has become to me. I understand there is a good balance for everything; taking a lunch break, stopping when I get too frustrated, walking away to go live my life are all okay actions, right? The mind of a competitive would disagree, but I have no one to compete with, it’s just me against meeting my own goals and I’m having the hardest time stepping away. This journey means everything to me. 
 
