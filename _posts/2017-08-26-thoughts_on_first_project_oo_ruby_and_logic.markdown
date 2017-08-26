@@ -5,7 +5,7 @@ date:   2017-08-26 00:18:23 -0400
 ---
 
 
-![](http://i.imgur.com/FFHg9i4.jpg)
+![](http://i.imgur.com/0aeU8mB.jpg)
 
 ### It’s very scary how important learning to code has become to me. I understand there is a good balance for everything; taking a lunch break, stopping when I get too frustrated, walking away to go live my life are all okay actions, right? The mind of a competitive would disagree, but I have no one to compete with, it’s just me against meeting my own goals and I’m having the hardest time stepping away. This journey means everything to me. 
 
