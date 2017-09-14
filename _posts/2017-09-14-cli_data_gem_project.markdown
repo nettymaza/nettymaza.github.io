@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CLI Data Gem Project"
-date:   2017-09-14 20:21:14 +0000
+date:   2017-09-14 16:21:15 -0400
 ---
 
 ## A small guide to get better at scraping Ajax loaded sites. 
