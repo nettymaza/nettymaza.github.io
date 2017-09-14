@@ -4,9 +4,9 @@ title:  "CLI Data Gem Project"
 date:   2017-09-14 16:21:15 -0400
 ---
 
-![](https://i.imgur.com/kVjvlhS.jpg?1)
+![Powered by friendship and Utah hiking ](https://i.imgur.com/kVjvlhS.jpg?1)
 
-A small guide to get better at scraping Ajax loaded sites. 
+## A small guide to get better at scraping Ajax loaded sites 
 
 I must say this is what I was looking forward to the most, the part when you learn how to put things together to help fully understand how things work. Although I wasn’t prepared for the struggles that were to come, I am fully satisfied with the learning process.  
 
@@ -23,7 +23,7 @@ Let’s talk about scraping and how the way websites load can affect it. This is
 To fully understand this let’s revisit Nokogiri and what it does; described as a parser, it is most often used to extract data from structured documents, mainly HTML data, nokogiri then allows us to treat this HTML data as if it were nested nodes.
 
 A good definition for what a parser is, in this case Nokogiri is this quote I found in a website. 
-“something that turns some kind of data (usually a string) into another kind of data (usually a data structure)”. 
+> “something that turns some kind of data (usually a string) into another kind of data (usually a data structure)”. 
 
 You can read more about Nokogiri here: https://www.sitepoint.com/nokogiri-fundamentals-extract-html-web/
 
