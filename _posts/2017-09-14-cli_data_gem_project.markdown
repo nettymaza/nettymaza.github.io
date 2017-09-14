@@ -4,7 +4,7 @@ title:  "CLI Data Gem Project"
 date:   2017-09-14 16:21:15 -0400
 ---
 
-![](https://imgur.com/kVjvlhS)
+![](https://i.imgur.com/kVjvlhS.jpg?1)
 
 A small guide to get better at scraping Ajax loaded sites. 
 
