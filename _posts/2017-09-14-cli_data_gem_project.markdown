@@ -73,6 +73,7 @@ brew install chromedriver
 ```
 
 **Watir::Wait.until **
+
 Waits until block evaluates to true or times out.
 http://www.rubydoc.info/gems/watir-webdriver/Watir/Wait
 
