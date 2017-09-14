@@ -4,7 +4,7 @@ title:  "CLI Data Gem Project"
 date:   2017-09-14 16:21:15 -0400
 ---
 
-## A small guide to get better at scraping Ajax loaded sites. 
+****A small guide to get better at scraping Ajax loaded sites. 
 
 I must say this is what I was looking forward to the most, the part when you learn how to put things together to help fully understand how things work. Although I wasn’t prepared for the struggles that were to come, I am fully satisfied with the learning process.  
 
