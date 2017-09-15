@@ -65,7 +65,8 @@ spec.add_dependency "watir"
 https://docs.brew.sh/Installation.html
 
 **This link will talk about using the appropriate driver, in my case Google Chrome: chromedriver.**
-http://watir.com/guides/chrome/
+http://watir.com/guides/chrome/ 
+
 *Note* Homebrew will have to be installed before this.
 
 ```
