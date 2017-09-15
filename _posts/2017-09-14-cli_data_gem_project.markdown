@@ -25,13 +25,13 @@ To fully understand this let’s revisit Nokogiri and what it does; described as
 A good definition for what a parser is, in this case Nokogiri is this quote I found in a website. 
 > “something that turns some kind of data (usually a string) into another kind of data (usually a data structure)”. 
 
-You can read more about Nokogiri here: https://www.sitepoint.com/nokogiri-fundamentals-extract-html-web/
+You can read more about Nokogiri here: [https://www.sitepoint.com/nokogiri-fundamentals-extract-html-web/](http://)
 
 I structured my CLI so that it would greet the user, provide a short description of what this gem is about and finally display a list of categories each with an index number, which the user could select to then display a list of products within that category. When scraping the categories, I could not believe how easy it was, they all had classes and I was able to easily target the name and url for each one of them. They displayed according to plan, it was a success, what an easy project!.
 
 Then time came to scrape the products within each category, my plan was to use the url I had collected from the first scrape to target the needed items. To my surprise nothing I was seeing on the actual website was pulling up in pry. Nightmare! Ahh! and Why?! 
 
-After much searching around, I ran into this site: https://github.com/JonasCz/How-To-Prevent-Scraping
+After much searching around, I ran into this site: [https://github.com/JonasCz/How-To-Prevent-Scraping](http://)
 Which is probably not the thing you want to learn about when you’re actually scraping, but something was preventing my scraping journey so I kept reading.
 
 I found this method as a way to prevent scraping: 
@@ -44,8 +44,8 @@ They're totally referring to me, the newbie/inexperienced programmer. Ha!
 
 I’m just trying to learn over here guys!. With lots of help and searching around for solutions, I came across Watir Webdriver in these sites:
 
-https://stackoverflow.com/questions/19090032/scraping-ajax-enabled-webpages
-https://stackoverflow.com/questions/13789583/html-is-read-before-fully-loaded-using-open-uri-and-nokogiri
+[https://stackoverflow.com/questions/19090032/scraping-ajax-enabled-webpages](http://)
+[https://stackoverflow.com/questions/13789583/html-is-read-before-fully-loaded-using-open-uri-and-nokogiri](http://)
 
 **So here is a Solution:**
 1. Install Watir
@@ -54,7 +54,7 @@ https://stackoverflow.com/questions/13789583/html-is-read-before-fully-loaded-us
 
 **Install Watir**
 Follow watir install instructions from this link to set it up:
-http://watir.com/guides/installation/
+[http://watir.com/guides/installation/](http://)
 I added it to my gem spec file like this:
 
 ```
@@ -62,10 +62,10 @@ spec.add_dependency "watir"
 ```
 
 **Install Homebrew**
-https://docs.brew.sh/Installation.html
+[https://docs.brew.sh/Installation.html](http://)
 
 **This link will talk about using the appropriate driver, in my case Google Chrome: chromedriver.**
-http://watir.com/guides/chrome/ 
+[http://watir.com/guides/chrome/ ](http://)
 
 *Note* Homebrew will have to be installed before this.
 
@@ -76,7 +76,7 @@ brew install chromedriver
 **Watir::Wait.until **
 
 Waits until block evaluates to true or times out.
-http://www.rubydoc.info/gems/watir-webdriver/Watir/Wait
+[http://www.rubydoc.info/gems/watir-webdriver/Watir/Wait](http://)
 
 ```
 Watir::Wait.until { browser.text_field(name: "new_user_first_name").visible? }
@@ -114,7 +114,7 @@ def fetch_products
 
 **Success!!**
 
-Final results were a list of beautifully displayed items from my chosen category. I must say I will never visit https://canopy.co/ and fondly look at their products with eager eyes. But I learned so so much, I hope this helps someone in the future. Now on to finish the details of my project so I get this sucker in by the end of the week. 
+Final results were a list of beautifully displayed items from my chosen category. I must say I will never visit canopy.co and fondly look at their products with eager eyes. But I learned so so much, I hope this helps someone in the future. Now on to finish the details of my project so I get this sucker in by the end of the week. 
 
 
 
