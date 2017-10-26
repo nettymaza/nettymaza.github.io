@@ -1,11 +1,11 @@
 ---
 layout: post
 title:      "Sinatra Project Mode!"
-date:       2017-10-26 22:36:34 +0000
+date:       2017-10-26 18:36:34 -0400
 permalink:  sinatra_project_mode
 ---
 
-## Baking Table
+# Baking Table
 
 If anyone who knows me well and would ever talk about my habits, the first thing they'd say is that I'm always in the kitchen. So I decided to build something I was very passionate about and knew I was going to be proud to show off everyone. A recipe creator it is! I know it’s not the most original idea, but I knew that’s what I wanted to make and already had all of these ideas rushing into my head about making it super enjoyable for the user aka baker. 
 
