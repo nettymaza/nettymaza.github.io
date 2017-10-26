@@ -62,7 +62,7 @@ development:
 
 CSS and Styling 
  
-Was a total challenge!! But because i created my app with the `gem corneal` which included a main.css file, I just had to tweak around a few things to get my colors in there, added a new font, a picture and even styled the buttons. This was definitely my favorite part!
+Was a total challenge, because I created my app with the `gem corneal` which included a main.css file, I just had to tweak around a few things to get my colors in there, added a new font, a picture and even styled the buttons. This was definitely my favorite part!
 
 
 The takeaway from this project is that I finally got RESTful routes down. I also had to revisit my CRUD lessons quite a bit to get things working. I realized that rather than trying to build everything at once, it is better to work on one thing at a time, if its broken, troubleshoot and then move on. If you keep skipping around trying to rush the process you'll find yourself in a messy sea of failing controller actions. Happy Coding Everyone!!!! 
