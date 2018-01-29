@@ -10,33 +10,30 @@ Task managers seemed like a great way to meet the VARIOUS requirements for my Ra
 
 My Active Record associations...
 
+
 ```
 User
 has_many :trips
-```
 
-```
+
 Trip
 belongs_to :user
 has_many :packing_lists
 has_many :items, through: :packing_lists
-```
 
-```
+
 Packing List 
 belongs_to :trip
 belongs_to :item
-```
 
 
-```
 Item
 has_many :packing_lists
 has_one :trip, through: :packing_lists
 ```
 
 
-One of the requirement for this project is to include a nested form where a model writes to an associated model through a custom attribute writer. The confusion was real after a month 'break' from rails, and it probably took me about 2 weeks of working on the same thing to figure out how to properly meet this requirement. I decided to have the Trips model write to the Items model, two models associated through a join model, which is the PackingList (should've called it TripItems to avoid confusion). 
+One of the requirement for this project is to include a nested form where a model writes to an associated model through a custom attribute writer. The confusion was real after a month break from rails, and it probably took me about 2 weeks of working on the same thing to figure out how to properly meet this requirement. I decided to have the Trips model write to the Items model, two models associated through a join model, which is the PackingList (should've called it TripItems to avoid confusion). 
 
 #### Nested Forms & Custom Attribute Writers
 
