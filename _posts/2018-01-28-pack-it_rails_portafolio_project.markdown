@@ -20,13 +20,14 @@ Trip
 belongs_to :user
 has_many :packing_lists
 has_many :items, through: :packing_lists
-	```
+```
 
 ```
 Packing List 
 belongs_to :trip
 belongs_to :item
 ```
+
 
 ```
 Item
