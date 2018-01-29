@@ -35,7 +35,7 @@ has_one :trip, through: :packing_lists
 
 One of the requirement for this project is to include a nested form where a model writes to an associated model through a custom attribute writer. The confusion was real after a month break from rails, and it probably took me about 2 weeks of working on the same thing to figure out how to properly meet this requirement. I decided to have the Trips model write to the Items model, two models associated through a join model, which is the PackingList (should've called it TripItems to avoid confusion). 
 
-#### Nested Forms & Custom Attribute Writers
+## Nested Forms & Custom Attribute Writers
 
 Creating a Nested Form will allow for each instance of Trip to have associated Items to it (two models, not directly related), so rather than going through the join model, we can directly build items on to our trip. We do this by adding a custom attribute writter in our Trip model page, and adding the accepts_nested_attributes_for macro. 
 
@@ -73,7 +73,7 @@ Trip
 has_many :items, through: :packing_lists
 ```
 
-#### We like options:
+## We like options:
 
 *  To associate existing items to our Trip I would add :item_ids => [], to trip params in our Trip controller, notice that the params :item_ids has the value of an array, because many items can belong to a trip... ;)
 
