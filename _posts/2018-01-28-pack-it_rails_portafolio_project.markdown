@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Pack-it! Rails Portafolio Project"
-date:       2018-01-29 04:56:59 +0000
+title:      "Pack-it! Rails Portfolio Project"
+date:       2018-01-28 23:57:00 -0500
 permalink:  pack-it_rails_portafolio_project
 ---
 
