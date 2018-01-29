@@ -139,7 +139,7 @@ accepts_nested_attributes_for :items, reject_if: proc {|attributes| attributes['
 
 You can read more about this in the Rails docs here ...
 
-http://api.rubyonrails.org/classes/ActiveRecord/NestedAttributes/ClassMethods.html
+(http://api.rubyonrails.org/classes/ActiveRecord/NestedAttributes/ClassMethods.html)
 
 
 
