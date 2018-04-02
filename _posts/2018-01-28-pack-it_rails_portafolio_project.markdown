@@ -8,6 +8,7 @@ permalink:  pack-it_rails_portafolio_project
 
 ![Views from my office :) ](https://i.imgur.com/p33Wgro.jpg)
 
+Views from my office in Bali 
 
 
 Task managers seemed like a great way to meet the VARIOUS requirements for my Rails project. Since I had a trip coming up, I thought it would be a great idea for my application to be a trip manager. Coming up with the name for it was the easiest part, how many times have you asked yourselves while sitting in a plane.. "Toothbrush, did I pack it?"... haha. I know I do that all the time! This app lets you create an account, then a trip and then add items to your packing list, then you can mark your trip as complete.  
