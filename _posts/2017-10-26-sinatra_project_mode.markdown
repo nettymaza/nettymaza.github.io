@@ -6,6 +6,12 @@ permalink:  sinatra_project_mode
 ---
 
 
+![](https://i.imgur.com/FFHg9i4.jpg)
+
+A walk at the Park :)
+
+
+
 If there is anyone who knows me well and would talk about my habits, the first thing they'd say is that I'm always in the kitchen. So I decided to build something I was very passionate about and knew I was going to be proud to show off to everyone. A recipe creator it is! I know it’s not the most original idea, but I knew that’s what I wanted to make and already had all of these ideas rushing into my head about making it super enjoyable for the user, aka baker. 
 
 I’ve gotta say this project was a lot more mellow than my CLI data gem project. I think that is probably because instead of rushing into it after I had finished the section, I took a couple of days off to decompress and let ideas rush into my head. Your thought process is very different when you're rested.   
