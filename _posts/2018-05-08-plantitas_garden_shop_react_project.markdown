@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Plantitas Garden Shop React Project"
-date:       2018-05-08 12:34:10 +0000
+title:      "Plantitas Garden Info React Project"
+date:       2018-05-08 08:34:11 -0400
 permalink:  plantitas_garden_shop_react_project
 ---
 
